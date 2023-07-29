@@ -1,0 +1,14 @@
+{
+    "name":"Magnet",
+    "version":"1.0",
+    "manifest_version":2,
+    "description":"复制磁力链接头部",
+    "browser_action":{
+        "default_icon":"icon.png",
+		"default_popup":"popup.html",
+        "default_title":"复制磁力链接头部"		
+    },
+    "permissions":[
+        "activeTab"
+    ]
+}
